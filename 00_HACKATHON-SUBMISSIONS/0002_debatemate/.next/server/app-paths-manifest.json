@@ -1,0 +1,10 @@
+{
+  "/api/debate/route": "app/api/debate/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/debates/route": "app/api/debates/route.js",
+  "/page": "app/page.js",
+  "/results/page": "app/results/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/debate/[id]/page": "app/debate/[id]/page.js",
+  "/history/page": "app/history/page.js"
+}
